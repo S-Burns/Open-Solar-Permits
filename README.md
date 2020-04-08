@@ -3,8 +3,9 @@ Solar permitting in the US is still done on a hyper local basis. This project is
 Billions of dollars are wasted annually. 
 
 1. Application structure and submission
-2. Virtual Site Inspection via video or pictures
+2. Virtual Site Inspection via video or picture submission
 3. Staged approvals and status updates
+4. Third party vendor standardization support and supporting document submission
 
 
 Related Resources
